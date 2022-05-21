@@ -1,12 +1,6 @@
 {
   "items": [
     {
-      "id": 1,
-      "name": "Yogurt",
-      "category": "Dairy",
-      "isInCart": false
-    },
-    {
       "id": 2,
       "name": "Pomegranate",
       "category": "Produce",
@@ -22,7 +16,7 @@
       "id": 4,
       "name": "String Cheese",
       "category": "Dairy",
-      "isInCart": false
+      "isInCart": true
     },
     {
       "id": 5,
@@ -34,7 +28,19 @@
       "id": 6,
       "name": "Cookies",
       "category": "Dessert",
-      "isInCart": false
+      "isInCart": true
+    },
+    {
+      "name": "Sam",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 10
+    },
+    {
+      "name": "Croissant",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 11
     }
   ]
 }
